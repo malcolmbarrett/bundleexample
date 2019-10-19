@@ -1,0 +1,9 @@
+---
+title: Here's a post without a bundled archetype
+author: Malcolm Barrett
+date: '2019-10-19'
+slug: here-s-a-post-without-a-bundled-archetype
+categories: []
+tags: []
+hasbundles: no
+---

@@ -1,0 +1,8 @@
+---
+title: Here's a post with a bundled archetype
+author: Malcolm Barrett
+date: '2019-10-19'
+slug: here-s-a-post-with-a-bundled-archetype
+categories: []
+tags: []
+---
